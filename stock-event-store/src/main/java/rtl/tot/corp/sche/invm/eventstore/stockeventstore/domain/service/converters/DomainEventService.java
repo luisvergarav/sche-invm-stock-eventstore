@@ -36,10 +36,21 @@ public class DomainEventService {
 
 	}
 
-	public DomainEvents getDomainEvents(final String sku) {
-		log.debug("processDomainEvent : enter");
 
-		log.debug("processDomainEvent : sku=" + sku);
+	public boolean check(final String sku) {
+		log.info("Getting DomainEvent : sku=" + sku);
+		DomainEvents de = new DomainEvents();
+		for (DomainEventEntity domainEventEntity : domainEventsRepository.findBySku(sku)) {
+			de.getDomainEvents().add(domainEventEntity.getMetadata());
+
+		}
+		
+		return !de.getDomainEvents().isEmpty();
+
+	}
+	
+	public DomainEvents getDomainEvents(final String sku) {
+		log.info("Getting DomainEvent : sku=" + sku);
 		DomainEvents de = new DomainEvents();
 		for (DomainEventEntity domainEventEntity : domainEventsRepository.findBySku(sku)) {
 			de.getDomainEvents().add(domainEventEntity.getMetadata());
@@ -49,16 +60,16 @@ public class DomainEventService {
 
 	}
 
+	
 	public void processDomainEvent(final Tuple event) {
-		log.debug("processStockEvent : enter ");
+		log.info("ProcessStockEvent sku=", event.toString());
 
 		String sku = event.getString("sku");
 
 		String eventId = event.getString("eventId");
 		
-		// this.domainEventsRepository.findById( boardUuid )
+		//this.domainEventsRepository.findById( sku )
 		// .ifPresent( found -> {
-		log.debug("processStockEvent : a DomainEventsEntity[{}] was found for stockId[{}]. ", sku);
 
 		DomainEventEntity domainEventEntity = new DomainEventEntity();
 		domainEventEntity.setId(eventId);
@@ -71,7 +82,7 @@ public class DomainEventService {
 
 		// found.getDomainEvents().add( domainEventEntity );
 		this.domainEventsRepository.save(domainEventEntity);
-
+		// });
 	}
 
 	

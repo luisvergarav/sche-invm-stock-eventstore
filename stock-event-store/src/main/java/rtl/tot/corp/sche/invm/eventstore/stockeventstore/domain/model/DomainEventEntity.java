@@ -40,7 +40,7 @@ public class DomainEventEntity {
 		String jsonValue;
 		ObjectMapper mapper = new ObjectMapper();
         try {
-            jsonValue = mapper.writeValueAsString(this);
+            jsonValue = mapper.writeValueAsString(data);
         } catch (JsonProcessingException e) {
             jsonValue = super.toString();
         }

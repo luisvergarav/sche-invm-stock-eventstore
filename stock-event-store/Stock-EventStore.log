@@ -1,0 +1,960 @@
+2019-03-20 00:00:16 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:01:16 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:01:23 INFO - Resolving eureka endpoints via configuration - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:02:16 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:03:16 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:04:17 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:05:17 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:06:17 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:06:24 INFO - Resolving eureka endpoints via configuration - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:07:17 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:08:17 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:09:17 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:10:17 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:11:17 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:11:24 INFO - Resolving eureka endpoints via configuration - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:12:17 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:13:17 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:14:17 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:15:17 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:16:17 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:16:24 INFO - Resolving eureka endpoints via configuration - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:17:17 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:18:17 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:19:17 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:20:17 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:21:17 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:21:24 INFO - Resolving eureka endpoints via configuration - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:22:17 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:22:18 INFO - Application shutdown requested. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:22:18 INFO - Unregistering application SCHE-INVM-EVENTSTORE with eureka with status DOWN - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:22:18 WARN - Saw local status change event StatusChangeEvent [timestamp=1553052138086, current=DOWN, previous=UP] - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:22:18 INFO - DiscoveryClient_SCHE-INVM-EVENTSTORE/MOEXT_LAVER.Falabella.com:sche-invm-eventstore:8083: registering service... - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:22:18 INFO - Shutting down ExecutorService 'applicationTaskExecutor' - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:22:18 INFO - DiscoveryClient_SCHE-INVM-EVENTSTORE/MOEXT_LAVER.Falabella.com:sche-invm-eventstore:8083 - registration status: 204 - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:22:18 INFO - Closing DocumentClient - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:22:18 WARN - Preferred location background task was interrupted - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:22:18 INFO - Shutting down DiscoveryClient ... - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:22:18 WARN - Destroy method on bean with name 'scopedTarget.eurekaClient' threw an exception: org.springframework.beans.factory.BeanCreationNotAllowedException: Error creating bean with name 'eurekaInstanceConfigBean': Singleton bean creation not allowed while singletons of this factory are in destruction (Do not request a bean from a BeanFactory in a destroy method implementation!) - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:22:50 INFO - Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$f8a9da2] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying) - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:24:32 INFO - Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$4b939c2e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying) - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:24:34 INFO - No active profile set, falling back to default profiles: default - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:24:35 INFO - Bootstrapping Spring Data repositories in DEFAULT mode. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:24:35 INFO - Finished Spring Data repository scanning in 107ms. Found 1 repository interfaces. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:24:35 WARN - Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:24:35 INFO - BeanFactory id=63cf6198-0d01-367b-ad7a-63e57e85c24d - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:24:36 INFO - Bean 'org.springframework.hateoas.config.HateoasConfiguration' of type [org.springframework.hateoas.config.HateoasConfiguration$$EnhancerBySpringCGLIB$$aef9e663] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying) - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:24:36 INFO - Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$4b939c2e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying) - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:24:36 INFO - Tomcat initialized with port(s): 8083 (http) - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:24:36 INFO - Initializing ProtocolHandler ["http-nio-8083"] - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:24:36 INFO - Starting service [Tomcat] - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:24:36 INFO - Starting Servlet engine: [Apache Tomcat/9.0.14] - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:24:36 INFO - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\environments\oracle\java\8\jdk\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files (x86)/Java/jre1.8.0_201/bin/client;C:/Program Files (x86)/Java/jre1.8.0_201/bin;C:/Program Files (x86)/Java/jre1.8.0_201/lib/i386;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Microsoft SDKs\Azure\CLI2\wbin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\environments\oracle\db\10g\app\oracle\product\10.2.0\server\bin;C:\app\ext_lavergarav\product\12.1.0\dbhome_1\bin;C:\environments\oracle\db\12.1.0\dbhome_1\bin;C:\sybase\Shared\Sybase Central 4.3;C:\sybase\OCS-12_5\lib3p;C:\sybase\OCS-12_5\dll;C:\sybase\OCS-12_5\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Program Files\Common Files\Microsoft Shared\Microsoft Online Services;C:\Program Files (x86)\Common Files\Microsoft Shared\Microsoft Online Services;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Lenovo\Access Connections\;C:\Program Files\Lenovo\Fingerprint Manager Pro\;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\SDL International\SDLX;C:\Program Files\MATLAB\R2016b\bin;C:\WINDOWS\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\PuTTY\;C:\Program Files\Java\jdk1.8.0_192\bin;C:\Users\ext_lavergarav\.azure-kubectl;C:\Program Files\Git\cmd;C:\Program Files (x86)\Nmap;C:\Program Files\Docker Toolbox;C:\Users\ext_lavergarav\Desktop\sts-bundle\sts-3.9.3.RELEASE;;.] - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:24:37 INFO - Initializing Spring embedded WebApplicationContext - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:24:37 INFO - Root WebApplicationContext: initialization completed in 3246 ms - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:24:37 WARN - No URLs will be polled as dynamic configuration sources. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:24:37 INFO - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:24:37 INFO - DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@fdce3c - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:24:57 INFO - Initializing DocumentClient with serviceEndpoint [https://tot-sche-invm-stock.documents.azure.com:443/], ConnectionPolicy [ConnectionPolicy [requestTimeout=60, mediaRequestTimeout=300, connectionMode=Gateway, mediaReadMode=Buffered, maxPoolSize=400, idleConnectionTimeout=60, userAgentSuffix=;spring-data/2.1.0;f463404a5ff4cc47457ff6b1f64d28d4b5b2d1246c850571412bb6465d8f0556;, retryOptions=com.microsoft.azure.documentdb.RetryOptions@b8992e, enableEndpointDiscovery=true, preferredLocations=null]], ConsistencyLevel [Session] - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:00 WARN - 'Windows 10' with 'x86' system is not compatible with native library. JNI not loaded. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:02 INFO - Creating MessagingFactory to namespace 'sb://tot-corp-orion-int-qa.servicebus.windows.net/' - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:02 INFO - Creating messaging factory from namespace endpoint uri 'sb://tot-corp-orion-int-qa.servicebus.windows.net/' - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:02 INFO - Creating and starting reactor - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:02 INFO - Started reactor - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:02 INFO - starting reactor instance. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:02 INFO - Creating connection to host 'tot-corp-orion-int-qa.servicebus.windows.net:5671' - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:04 INFO - MessagingFactory opened. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:04 INFO - Connection opened to host. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:04 INFO - Created MessagingFactory to namespace 'sb://tot-corp-orion-int-qa.servicebus.windows.net/' - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:04 INFO - Creating MessageSender to entity 'tot-corp-orion-stockchanges-topic-mid' - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:04 INFO - Creating CBS link to $cbs - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:04 INFO - Creating core message sender to 'tot-corp-orion-stockchanges-topic-mid' - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:04 INFO - Opened requestresponselink to $cbs - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:04 INFO - Created CBS link to $cbs - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:04 INFO - Creating send link to 'tot-corp-orion-stockchanges-topic-mid' - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:05 INFO - Opened send link to 'tot-corp-orion-stockchanges-topic-mid' - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:05 INFO - Created MessageSender to entity 'tot-corp-orion-stockchanges-topic-mid' - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:05 INFO - Created topic client to connection string 'Endpoint=sb://tot-corp-orion-int-qa.servicebus.windows.net/;EntityPath=tot-corp-orion-stockchanges-topic-mid;' - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:05 INFO - Creating messaging factory from connection string 'Endpoint=sb://tot-corp-orion-int-qa.servicebus.windows.net/;EntityPath=tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID;' - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:05 INFO - Creating messaging factory from namespace endpoint uri 'sb://tot-corp-orion-int-qa.servicebus.windows.net/' - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:05 INFO - Creating and starting reactor - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:05 INFO - Started reactor - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:05 INFO - starting reactor instance. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:05 INFO - Creating connection to host 'tot-corp-orion-int-qa.servicebus.windows.net:5671' - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:06 INFO - MessagingFactory opened. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:06 INFO - Connection opened to host. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:06 INFO - Creating CBS link to $cbs - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:06 INFO - Created subscription client to connection string 'Endpoint=sb://tot-corp-orion-int-qa.servicebus.windows.net/;EntityPath=tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID;' - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:06 INFO - Registering message handler on entity 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID' with 'MessageHandlerOptions - AutoComplete:true, MaxConcurrentCalls:1, MaxAutoRenewDuration:PT5M' - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:06 INFO - Creating MessageReceiver to entity 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID', ReceiveMode 'PEEKLOCK' - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:06 INFO - Creating core message receiver to 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID' - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:06 INFO - Opened requestresponselink to $cbs - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:06 INFO - Created CBS link to $cbs - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:06 INFO - Creating receive link to 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID' - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:07 INFO - Receive link to 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID' opened. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:07 INFO - Created MessageReceiver to entity 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID' - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:07 INFO - Created MessageBrowser to entity 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID' - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:07 INFO - Created MessageReceiver to entity 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID' - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:07 INFO - Initializing DocumentClient with serviceEndpoint [https://tot-sche-invm-stock.documents.azure.com:443/], ConnectionPolicy [ConnectionPolicy [requestTimeout=60, mediaRequestTimeout=300, connectionMode=Gateway, mediaReadMode=Buffered, maxPoolSize=400, idleConnectionTimeout=60, userAgentSuffix=;spring-data/2.1.0;f463404a5ff4cc47457ff6b1f64d28d4b5b2d1246c850571412bb6465d8f0556;, retryOptions=com.microsoft.azure.documentdb.RetryOptions@b8992e, enableEndpointDiscovery=true, preferredLocations=null]], ConsistencyLevel [Session] - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:09 WARN - No URLs will be polled as dynamic configuration sources. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:09 INFO - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:10 INFO - Initializing ExecutorService 'applicationTaskExecutor' - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:11 INFO - Exposing 2 endpoint(s) beneath base path '/actuator' - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:11 INFO - Setting initial instance status as: STARTING - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:11 INFO - Initializing Eureka in region us-east-1 - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:11 INFO - Using JSON encoding codec LegacyJacksonJson - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:11 INFO - Using JSON decoding codec LegacyJacksonJson - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:11 INFO - Using XML encoding codec XStreamXml - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:11 INFO - Using XML decoding codec XStreamXml - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:12 INFO - Resolving eureka endpoints via configuration - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:12 INFO - Disable delta property : false - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:12 INFO - Single vip registry refresh property : null - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:12 INFO - Force full registry fetch : false - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:12 INFO - Application is null : false - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:12 INFO - Registered Applications size is zero : true - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:12 INFO - Application version is -1: true - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:12 INFO - Getting all instance registry info from the eureka server - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:13 INFO - The response status is 200 - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:13 INFO - Starting heartbeat executor: renew interval is: 30 - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:13 INFO - InstanceInfoReplicator onDemand update allowed rate per min is 4 - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:13 INFO - Discovery Client initialized at timestamp 1553052313063 with initial instances count: 1 - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:13 INFO - Registering application SCHE-INVM-EVENTSTORE with eureka with status UP - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:13 INFO - Saw local status change event StatusChangeEvent [timestamp=1553052313070, current=UP, previous=STARTING] - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:13 INFO - DiscoveryClient_SCHE-INVM-EVENTSTORE/MOEXT_LAVER.Falabella.com:sche-invm-eventstore:8083: registering service... - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:13 INFO - Starting ProtocolHandler ["http-nio-8083"] - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:13 INFO - DiscoveryClient_SCHE-INVM-EVENTSTORE/MOEXT_LAVER.Falabella.com:sche-invm-eventstore:8083 - registration status: 204 - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:13 INFO - Tomcat started on port(s): 8083 (http) with context path '' - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:25:13 INFO - Started StockEventStoreApplication in 42.493 seconds (JVM running for 44.245) - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:26:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:26:40 INFO - Initializing Spring DispatcherServlet 'dispatcherServlet' - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:26:40 INFO - Initializing Servlet 'dispatcherServlet' - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:26:40 INFO - Completed initialization in 33 ms - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:26:40 INFO - Getting DomainEvent : sku=04142454 - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:26:41 INFO - Getting DomainEvent : sku=04142454 - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:27:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:27:19 INFO - Processing event {"eventType":"StockUpdatedEvent","eventType":"StockUpdatedEvent","eventId":"211897b9-4e68-4070-bf1f-5e78ac1b8897","occurredOn":"2019-03-20T03:26:25.265Z","sku":"04142454","store":1234,"stockAvailable":100.0,"stockOnLine":90.0,"purchaseOrden":90.0,"transferOrden":90.0,"averageCost":15.5} - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:27:19 INFO - ProcessStockEvent sku= - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:27:53 INFO - Getting DomainEvent : sku=04142454 - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:28:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:28:41 INFO - Processing event {"eventType":"StockUpdatedEvent","eventType":"StockUpdatedEvent","eventId":"28c72839-1aa8-424b-8efa-587df2b95728","occurredOn":"2019-03-20T03:27:53.830Z","sku":"04142454","store":1234,"stockAvailable":100.0,"stockOnLine":90.0,"purchaseOrden":90.0,"transferOrden":90.0,"averageCost":15.5} - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:28:41 INFO - ProcessStockEvent sku= - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:29:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:30:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:30:12 INFO - Resolving eureka endpoints via configuration - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:31:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:32:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:33:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:34:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:35:05 WARN - Send link to 'tot-corp-orion-stockchanges-topic-mid' closed. Failing all pending send requests. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:35:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:35:12 INFO - Resolving eureka endpoints via configuration - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:36:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:37:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:38:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:39:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:40:05 WARN - Internal send link of requestresponselink to '$cbs' closed with error. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+com.microsoft.azure.servicebus.primitives.ServiceBusException: Error{condition=amqp:connection:forced, description='The connection was inactive for more than the allowed 300000 milliseconds and is closed by container 'LinkTracker'. TrackingId:4d64459730774be7a08a045d918b1f5e_G10, SystemTracker:gateway7, Timestamp:2019-03-20T03:40:05', info=null}
+	at com.microsoft.azure.servicebus.primitives.ExceptionUtil.toException(ExceptionUtil.java:113)
+	at com.microsoft.azure.servicebus.primitives.RequestResponseLink$InternalSender.onClose(RequestResponseLink.java:837)
+	at com.microsoft.azure.servicebus.amqp.BaseLinkHandler.processOnClose(BaseLinkHandler.java:68)
+	at com.microsoft.azure.servicebus.amqp.BaseLinkHandler.onLinkRemoteClose(BaseLinkHandler.java:42)
+	at org.apache.qpid.proton.engine.BaseHandler.handle(BaseHandler.java:176)
+	at org.apache.qpid.proton.engine.impl.EventImpl.dispatch(EventImpl.java:108)
+	at org.apache.qpid.proton.reactor.impl.ReactorImpl.dispatch(ReactorImpl.java:309)
+	at org.apache.qpid.proton.reactor.impl.ReactorImpl.process(ReactorImpl.java:276)
+	at com.microsoft.azure.servicebus.primitives.MessagingFactory$RunReactor.run(MessagingFactory.java:481)
+	at java.lang.Thread.run(Thread.java:748)
+2019-03-20 00:40:05 WARN - Completing all pending requests with exception in request response link to $cbs - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:40:05 WARN - Internal receive link of requestresponselink to '$cbs' closed with error. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+com.microsoft.azure.servicebus.primitives.ServiceBusException: Error{condition=amqp:connection:forced, description='The connection was inactive for more than the allowed 300000 milliseconds and is closed by container 'LinkTracker'. TrackingId:4d64459730774be7a08a045d918b1f5e_G10, SystemTracker:gateway7, Timestamp:2019-03-20T03:40:05', info=null}
+	at com.microsoft.azure.servicebus.primitives.ExceptionUtil.toException(ExceptionUtil.java:113)
+	at com.microsoft.azure.servicebus.primitives.RequestResponseLink$InternalReceiver.onClose(RequestResponseLink.java:630)
+	at com.microsoft.azure.servicebus.amqp.BaseLinkHandler.processOnClose(BaseLinkHandler.java:68)
+	at com.microsoft.azure.servicebus.amqp.BaseLinkHandler.onLinkRemoteClose(BaseLinkHandler.java:42)
+	at org.apache.qpid.proton.engine.BaseHandler.handle(BaseHandler.java:176)
+	at org.apache.qpid.proton.engine.impl.EventImpl.dispatch(EventImpl.java:108)
+	at org.apache.qpid.proton.reactor.impl.ReactorImpl.dispatch(ReactorImpl.java:309)
+	at org.apache.qpid.proton.reactor.impl.ReactorImpl.process(ReactorImpl.java:276)
+	at com.microsoft.azure.servicebus.primitives.MessagingFactory$RunReactor.run(MessagingFactory.java:481)
+	at java.lang.Thread.run(Thread.java:748)
+2019-03-20 00:40:05 WARN - Completing all pending requests with exception in request response link to $cbs - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:40:05ERROR - Connection error. 'Error{condition=amqp:connection:forced, description='The connection was inactive for more than the allowed 300000 milliseconds and is closed by container 'LinkTracker'. TrackingId:4d64459730774be7a08a045d918b1f5e_G10, SystemTracker:gateway7, Timestamp:2019-03-20T03:40:05', info=null}' - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:40:05 INFO - Closing connection to host - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:40:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:40:12 INFO - Resolving eureka endpoints via configuration - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:41:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:42:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:43:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:44:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:45:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:45:12 INFO - Resolving eureka endpoints via configuration - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:46:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:47:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:48:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:49:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:50:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:50:12 INFO - Resolving eureka endpoints via configuration - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:51:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:52:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:53:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:54:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:55:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:55:12 INFO - Resolving eureka endpoints via configuration - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:56:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:57:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:58:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 00:59:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:00:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:00:12 INFO - Resolving eureka endpoints via configuration - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:01:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:02:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:03:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:04:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:05:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:05:12 INFO - Resolving eureka endpoints via configuration - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:06:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:07:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:08:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:09:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:10:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:10:12 INFO - Resolving eureka endpoints via configuration - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:11:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:12:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:13:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:14:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:15:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:15:12 INFO - Resolving eureka endpoints via configuration - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:16:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:17:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:18:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:19:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:20:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:20:12 INFO - Resolving eureka endpoints via configuration - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:21:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:22:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:23:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:24:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:25:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:25:12 INFO - Resolving eureka endpoints via configuration - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:26:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:27:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:28:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:29:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:29:46ERROR - Request execution error - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+com.sun.jersey.api.client.ClientHandlerException: java.net.ConnectException: Connection refused: connect
+	at com.sun.jersey.client.apache4.ApacheHttpClient4Handler.handle(ApacheHttpClient4Handler.java:187)
+	at com.sun.jersey.api.client.filter.GZIPContentEncodingFilter.handle(GZIPContentEncodingFilter.java:123)
+	at com.netflix.discovery.EurekaIdentityHeaderFilter.handle(EurekaIdentityHeaderFilter.java:27)
+	at com.sun.jersey.api.client.Client.handle(Client.java:652)
+	at com.sun.jersey.api.client.WebResource.handle(WebResource.java:682)
+	at com.sun.jersey.api.client.WebResource.access$200(WebResource.java:74)
+	at com.sun.jersey.api.client.WebResource$Builder.put(WebResource.java:529)
+	at com.netflix.discovery.shared.transport.jersey.AbstractJerseyEurekaHttpClient.sendHeartBeat(AbstractJerseyEurekaHttpClient.java:102)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.MetricsCollectingEurekaHttpClient.execute(MetricsCollectingEurekaHttpClient.java:73)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.DiscoveryClient.renew(DiscoveryClient.java:846)
+	at com.netflix.discovery.DiscoveryClient$HeartbeatThread.run(DiscoveryClient.java:1399)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.http.conn.scheme.PlainSocketFactory.connectSocket(PlainSocketFactory.java:121)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:180)
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:144)
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:134)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:610)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:445)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:835)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:118)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at com.sun.jersey.client.apache4.ApacheHttpClient4Handler.handle(ApacheHttpClient4Handler.java:173)
+	... 26 common frames omitted
+2019-03-20 01:29:46ERROR - Request execution error - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+com.sun.jersey.api.client.ClientHandlerException: java.net.ConnectException: Connection refused: connect
+	at com.sun.jersey.client.apache4.ApacheHttpClient4Handler.handle(ApacheHttpClient4Handler.java:187)
+	at com.sun.jersey.api.client.filter.GZIPContentEncodingFilter.handle(GZIPContentEncodingFilter.java:123)
+	at com.netflix.discovery.EurekaIdentityHeaderFilter.handle(EurekaIdentityHeaderFilter.java:27)
+	at com.sun.jersey.api.client.Client.handle(Client.java:652)
+	at com.sun.jersey.api.client.WebResource.handle(WebResource.java:682)
+	at com.sun.jersey.api.client.WebResource.access$200(WebResource.java:74)
+	at com.sun.jersey.api.client.WebResource$Builder.get(WebResource.java:509)
+	at com.netflix.discovery.shared.transport.jersey.AbstractJerseyEurekaHttpClient.getApplicationsInternal(AbstractJerseyEurekaHttpClient.java:194)
+	at com.netflix.discovery.shared.transport.jersey.AbstractJerseyEurekaHttpClient.getDelta(AbstractJerseyEurekaHttpClient.java:170)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$7.execute(EurekaHttpClientDecorator.java:152)
+	at com.netflix.discovery.shared.transport.decorator.MetricsCollectingEurekaHttpClient.execute(MetricsCollectingEurekaHttpClient.java:73)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$7.execute(EurekaHttpClientDecorator.java:152)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$7.execute(EurekaHttpClientDecorator.java:152)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$7.execute(EurekaHttpClientDecorator.java:152)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.DiscoveryClient.getAndUpdateDelta(DiscoveryClient.java:1085)
+	at com.netflix.discovery.DiscoveryClient.fetchRegistry(DiscoveryClient.java:967)
+	at com.netflix.discovery.DiscoveryClient.refreshRegistry(DiscoveryClient.java:1473)
+	at com.netflix.discovery.DiscoveryClient$CacheRefreshThread.run(DiscoveryClient.java:1440)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.http.conn.scheme.PlainSocketFactory.connectSocket(PlainSocketFactory.java:121)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:180)
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:144)
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:134)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:610)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:445)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:835)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:118)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at com.sun.jersey.client.apache4.ApacheHttpClient4Handler.handle(ApacheHttpClient4Handler.java:173)
+	... 29 common frames omitted
+2019-03-20 01:29:46 WARN - Request execution failed with message: java.net.ConnectException: Connection refused: connect - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:29:46 WARN - Request execution failed with message: java.net.ConnectException: Connection refused: connect - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:29:48ERROR - Request execution error - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+com.sun.jersey.api.client.ClientHandlerException: java.net.ConnectException: Connection refused: connect
+	at com.sun.jersey.client.apache4.ApacheHttpClient4Handler.handle(ApacheHttpClient4Handler.java:187)
+	at com.sun.jersey.api.client.filter.GZIPContentEncodingFilter.handle(GZIPContentEncodingFilter.java:123)
+	at com.netflix.discovery.EurekaIdentityHeaderFilter.handle(EurekaIdentityHeaderFilter.java:27)
+	at com.sun.jersey.api.client.Client.handle(Client.java:652)
+	at com.sun.jersey.api.client.WebResource.handle(WebResource.java:682)
+	at com.sun.jersey.api.client.WebResource.access$200(WebResource.java:74)
+	at com.sun.jersey.api.client.WebResource$Builder.get(WebResource.java:509)
+	at com.netflix.discovery.shared.transport.jersey.AbstractJerseyEurekaHttpClient.getApplicationsInternal(AbstractJerseyEurekaHttpClient.java:194)
+	at com.netflix.discovery.shared.transport.jersey.AbstractJerseyEurekaHttpClient.getDelta(AbstractJerseyEurekaHttpClient.java:170)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$7.execute(EurekaHttpClientDecorator.java:152)
+	at com.netflix.discovery.shared.transport.decorator.MetricsCollectingEurekaHttpClient.execute(MetricsCollectingEurekaHttpClient.java:73)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$7.execute(EurekaHttpClientDecorator.java:152)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.executeOnNewServer(RedirectingEurekaHttpClient.java:118)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:79)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$7.execute(EurekaHttpClientDecorator.java:152)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$7.execute(EurekaHttpClientDecorator.java:152)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.DiscoveryClient.getAndUpdateDelta(DiscoveryClient.java:1085)
+	at com.netflix.discovery.DiscoveryClient.fetchRegistry(DiscoveryClient.java:967)
+	at com.netflix.discovery.DiscoveryClient.refreshRegistry(DiscoveryClient.java:1473)
+	at com.netflix.discovery.DiscoveryClient$CacheRefreshThread.run(DiscoveryClient.java:1440)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.http.conn.scheme.PlainSocketFactory.connectSocket(PlainSocketFactory.java:121)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:180)
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:144)
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:134)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:610)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:445)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:835)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:118)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at com.sun.jersey.client.apache4.ApacheHttpClient4Handler.handle(ApacheHttpClient4Handler.java:173)
+	... 30 common frames omitted
+2019-03-20 01:29:48 WARN - Request execution failed with message: java.net.ConnectException: Connection refused: connect - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:29:48ERROR - DiscoveryClient_SCHE-INVM-EVENTSTORE/MOEXT_LAVER.Falabella.com:sche-invm-eventstore:8083 - was unable to refresh its cache! status = Cannot execute request on any known server - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$7.execute(EurekaHttpClientDecorator.java:152)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.DiscoveryClient.getAndUpdateDelta(DiscoveryClient.java:1085)
+	at com.netflix.discovery.DiscoveryClient.fetchRegistry(DiscoveryClient.java:967)
+	at com.netflix.discovery.DiscoveryClient.refreshRegistry(DiscoveryClient.java:1473)
+	at com.netflix.discovery.DiscoveryClient$CacheRefreshThread.run(DiscoveryClient.java:1440)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-03-20 01:29:48ERROR - Request execution error - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+com.sun.jersey.api.client.ClientHandlerException: java.net.ConnectException: Connection refused: connect
+	at com.sun.jersey.client.apache4.ApacheHttpClient4Handler.handle(ApacheHttpClient4Handler.java:187)
+	at com.sun.jersey.api.client.filter.GZIPContentEncodingFilter.handle(GZIPContentEncodingFilter.java:123)
+	at com.netflix.discovery.EurekaIdentityHeaderFilter.handle(EurekaIdentityHeaderFilter.java:27)
+	at com.sun.jersey.api.client.Client.handle(Client.java:652)
+	at com.sun.jersey.api.client.WebResource.handle(WebResource.java:682)
+	at com.sun.jersey.api.client.WebResource.access$200(WebResource.java:74)
+	at com.sun.jersey.api.client.WebResource$Builder.put(WebResource.java:529)
+	at com.netflix.discovery.shared.transport.jersey.AbstractJerseyEurekaHttpClient.sendHeartBeat(AbstractJerseyEurekaHttpClient.java:102)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.MetricsCollectingEurekaHttpClient.execute(MetricsCollectingEurekaHttpClient.java:73)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.executeOnNewServer(RedirectingEurekaHttpClient.java:118)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:79)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.DiscoveryClient.renew(DiscoveryClient.java:846)
+	at com.netflix.discovery.DiscoveryClient$HeartbeatThread.run(DiscoveryClient.java:1399)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.http.conn.scheme.PlainSocketFactory.connectSocket(PlainSocketFactory.java:121)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:180)
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:144)
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:134)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:610)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:445)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:835)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:118)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at com.sun.jersey.client.apache4.ApacheHttpClient4Handler.handle(ApacheHttpClient4Handler.java:173)
+	... 27 common frames omitted
+2019-03-20 01:29:48 WARN - Request execution failed with message: java.net.ConnectException: Connection refused: connect - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:29:48ERROR - DiscoveryClient_SCHE-INVM-EVENTSTORE/MOEXT_LAVER.Falabella.com:sche-invm-eventstore:8083 - was unable to send heartbeat! - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.DiscoveryClient.renew(DiscoveryClient.java:846)
+	at com.netflix.discovery.DiscoveryClient$HeartbeatThread.run(DiscoveryClient.java:1399)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-03-20 01:30:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:30:12 INFO - Resolving eureka endpoints via configuration - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:30:18 INFO - DiscoveryClient_SCHE-INVM-EVENTSTORE/MOEXT_LAVER.Falabella.com:sche-invm-eventstore:8083 - Re-registering apps/SCHE-INVM-EVENTSTORE - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:30:18 INFO - DiscoveryClient_SCHE-INVM-EVENTSTORE/MOEXT_LAVER.Falabella.com:sche-invm-eventstore:8083: registering service... - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:30:18 INFO - DiscoveryClient_SCHE-INVM-EVENTSTORE/MOEXT_LAVER.Falabella.com:sche-invm-eventstore:8083 - registration status: 204 - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:30:48 INFO - Disable delta property : false - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:30:48 INFO - Single vip registry refresh property : null - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:30:48 INFO - Force full registry fetch : false - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:30:48 INFO - Application is null : false - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:30:48 INFO - Registered Applications size is zero : true - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:30:48 INFO - Application version is -1: false - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:30:48 INFO - Getting all instance registry info from the eureka server - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:30:50ERROR - Request execution error - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+com.sun.jersey.api.client.ClientHandlerException: java.net.ConnectException: Connection refused: connect
+	at com.sun.jersey.client.apache4.ApacheHttpClient4Handler.handle(ApacheHttpClient4Handler.java:187)
+	at com.sun.jersey.api.client.filter.GZIPContentEncodingFilter.handle(GZIPContentEncodingFilter.java:123)
+	at com.netflix.discovery.EurekaIdentityHeaderFilter.handle(EurekaIdentityHeaderFilter.java:27)
+	at com.sun.jersey.api.client.Client.handle(Client.java:652)
+	at com.sun.jersey.api.client.WebResource.handle(WebResource.java:682)
+	at com.sun.jersey.api.client.WebResource.access$200(WebResource.java:74)
+	at com.sun.jersey.api.client.WebResource$Builder.get(WebResource.java:509)
+	at com.netflix.discovery.shared.transport.jersey.AbstractJerseyEurekaHttpClient.getApplicationsInternal(AbstractJerseyEurekaHttpClient.java:194)
+	at com.netflix.discovery.shared.transport.jersey.AbstractJerseyEurekaHttpClient.getApplications(AbstractJerseyEurekaHttpClient.java:165)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$6.execute(EurekaHttpClientDecorator.java:137)
+	at com.netflix.discovery.shared.transport.decorator.MetricsCollectingEurekaHttpClient.execute(MetricsCollectingEurekaHttpClient.java:73)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getApplications(EurekaHttpClientDecorator.java:134)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$6.execute(EurekaHttpClientDecorator.java:137)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getApplications(EurekaHttpClientDecorator.java:134)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$6.execute(EurekaHttpClientDecorator.java:137)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getApplications(EurekaHttpClientDecorator.java:134)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$6.execute(EurekaHttpClientDecorator.java:137)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getApplications(EurekaHttpClientDecorator.java:134)
+	at com.netflix.discovery.DiscoveryClient.getAndStoreFullRegistry(DiscoveryClient.java:1051)
+	at com.netflix.discovery.DiscoveryClient.fetchRegistry(DiscoveryClient.java:965)
+	at com.netflix.discovery.DiscoveryClient.refreshRegistry(DiscoveryClient.java:1473)
+	at com.netflix.discovery.DiscoveryClient$CacheRefreshThread.run(DiscoveryClient.java:1440)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.http.conn.scheme.PlainSocketFactory.connectSocket(PlainSocketFactory.java:121)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:180)
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:144)
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:134)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:610)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:445)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:835)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:118)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at com.sun.jersey.client.apache4.ApacheHttpClient4Handler.handle(ApacheHttpClient4Handler.java:173)
+	... 29 common frames omitted
+2019-03-20 01:30:50 WARN - Request execution failed with message: java.net.ConnectException: Connection refused: connect - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:30:50ERROR - Request execution error - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+com.sun.jersey.api.client.ClientHandlerException: java.net.ConnectException: Connection refused: connect
+	at com.sun.jersey.client.apache4.ApacheHttpClient4Handler.handle(ApacheHttpClient4Handler.java:187)
+	at com.sun.jersey.api.client.filter.GZIPContentEncodingFilter.handle(GZIPContentEncodingFilter.java:123)
+	at com.netflix.discovery.EurekaIdentityHeaderFilter.handle(EurekaIdentityHeaderFilter.java:27)
+	at com.sun.jersey.api.client.Client.handle(Client.java:652)
+	at com.sun.jersey.api.client.WebResource.handle(WebResource.java:682)
+	at com.sun.jersey.api.client.WebResource.access$200(WebResource.java:74)
+	at com.sun.jersey.api.client.WebResource$Builder.put(WebResource.java:529)
+	at com.netflix.discovery.shared.transport.jersey.AbstractJerseyEurekaHttpClient.sendHeartBeat(AbstractJerseyEurekaHttpClient.java:102)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.MetricsCollectingEurekaHttpClient.execute(MetricsCollectingEurekaHttpClient.java:73)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.DiscoveryClient.renew(DiscoveryClient.java:846)
+	at com.netflix.discovery.DiscoveryClient$HeartbeatThread.run(DiscoveryClient.java:1399)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.http.conn.scheme.PlainSocketFactory.connectSocket(PlainSocketFactory.java:121)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:180)
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:144)
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:134)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:610)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:445)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:835)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:118)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at com.sun.jersey.client.apache4.ApacheHttpClient4Handler.handle(ApacheHttpClient4Handler.java:173)
+	... 26 common frames omitted
+2019-03-20 01:30:50 WARN - Request execution failed with message: java.net.ConnectException: Connection refused: connect - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:30:52ERROR - Request execution error - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+com.sun.jersey.api.client.ClientHandlerException: java.net.ConnectException: Connection refused: connect
+	at com.sun.jersey.client.apache4.ApacheHttpClient4Handler.handle(ApacheHttpClient4Handler.java:187)
+	at com.sun.jersey.api.client.filter.GZIPContentEncodingFilter.handle(GZIPContentEncodingFilter.java:123)
+	at com.netflix.discovery.EurekaIdentityHeaderFilter.handle(EurekaIdentityHeaderFilter.java:27)
+	at com.sun.jersey.api.client.Client.handle(Client.java:652)
+	at com.sun.jersey.api.client.WebResource.handle(WebResource.java:682)
+	at com.sun.jersey.api.client.WebResource.access$200(WebResource.java:74)
+	at com.sun.jersey.api.client.WebResource$Builder.get(WebResource.java:509)
+	at com.netflix.discovery.shared.transport.jersey.AbstractJerseyEurekaHttpClient.getApplicationsInternal(AbstractJerseyEurekaHttpClient.java:194)
+	at com.netflix.discovery.shared.transport.jersey.AbstractJerseyEurekaHttpClient.getApplications(AbstractJerseyEurekaHttpClient.java:165)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$6.execute(EurekaHttpClientDecorator.java:137)
+	at com.netflix.discovery.shared.transport.decorator.MetricsCollectingEurekaHttpClient.execute(MetricsCollectingEurekaHttpClient.java:73)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getApplications(EurekaHttpClientDecorator.java:134)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$6.execute(EurekaHttpClientDecorator.java:137)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.executeOnNewServer(RedirectingEurekaHttpClient.java:118)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:79)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getApplications(EurekaHttpClientDecorator.java:134)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$6.execute(EurekaHttpClientDecorator.java:137)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getApplications(EurekaHttpClientDecorator.java:134)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$6.execute(EurekaHttpClientDecorator.java:137)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getApplications(EurekaHttpClientDecorator.java:134)
+	at com.netflix.discovery.DiscoveryClient.getAndStoreFullRegistry(DiscoveryClient.java:1051)
+	at com.netflix.discovery.DiscoveryClient.fetchRegistry(DiscoveryClient.java:965)
+	at com.netflix.discovery.DiscoveryClient.refreshRegistry(DiscoveryClient.java:1473)
+	at com.netflix.discovery.DiscoveryClient$CacheRefreshThread.run(DiscoveryClient.java:1440)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.http.conn.scheme.PlainSocketFactory.connectSocket(PlainSocketFactory.java:121)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:180)
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:144)
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:134)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:610)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:445)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:835)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:118)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at com.sun.jersey.client.apache4.ApacheHttpClient4Handler.handle(ApacheHttpClient4Handler.java:173)
+	... 30 common frames omitted
+2019-03-20 01:30:52 WARN - Request execution failed with message: java.net.ConnectException: Connection refused: connect - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:30:52ERROR - DiscoveryClient_SCHE-INVM-EVENTSTORE/MOEXT_LAVER.Falabella.com:sche-invm-eventstore:8083 - was unable to refresh its cache! status = Cannot execute request on any known server - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getApplications(EurekaHttpClientDecorator.java:134)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$6.execute(EurekaHttpClientDecorator.java:137)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getApplications(EurekaHttpClientDecorator.java:134)
+	at com.netflix.discovery.DiscoveryClient.getAndStoreFullRegistry(DiscoveryClient.java:1051)
+	at com.netflix.discovery.DiscoveryClient.fetchRegistry(DiscoveryClient.java:965)
+	at com.netflix.discovery.DiscoveryClient.refreshRegistry(DiscoveryClient.java:1473)
+	at com.netflix.discovery.DiscoveryClient$CacheRefreshThread.run(DiscoveryClient.java:1440)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-03-20 01:30:52ERROR - Request execution error - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+com.sun.jersey.api.client.ClientHandlerException: java.net.ConnectException: Connection refused: connect
+	at com.sun.jersey.client.apache4.ApacheHttpClient4Handler.handle(ApacheHttpClient4Handler.java:187)
+	at com.sun.jersey.api.client.filter.GZIPContentEncodingFilter.handle(GZIPContentEncodingFilter.java:123)
+	at com.netflix.discovery.EurekaIdentityHeaderFilter.handle(EurekaIdentityHeaderFilter.java:27)
+	at com.sun.jersey.api.client.Client.handle(Client.java:652)
+	at com.sun.jersey.api.client.WebResource.handle(WebResource.java:682)
+	at com.sun.jersey.api.client.WebResource.access$200(WebResource.java:74)
+	at com.sun.jersey.api.client.WebResource$Builder.put(WebResource.java:529)
+	at com.netflix.discovery.shared.transport.jersey.AbstractJerseyEurekaHttpClient.sendHeartBeat(AbstractJerseyEurekaHttpClient.java:102)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.MetricsCollectingEurekaHttpClient.execute(MetricsCollectingEurekaHttpClient.java:73)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.executeOnNewServer(RedirectingEurekaHttpClient.java:118)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:79)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.DiscoveryClient.renew(DiscoveryClient.java:846)
+	at com.netflix.discovery.DiscoveryClient$HeartbeatThread.run(DiscoveryClient.java:1399)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.http.conn.scheme.PlainSocketFactory.connectSocket(PlainSocketFactory.java:121)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:180)
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:144)
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:134)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:610)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:445)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:835)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:118)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at com.sun.jersey.client.apache4.ApacheHttpClient4Handler.handle(ApacheHttpClient4Handler.java:173)
+	... 27 common frames omitted
+2019-03-20 01:30:52 WARN - Request execution failed with message: java.net.ConnectException: Connection refused: connect - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:30:52ERROR - DiscoveryClient_SCHE-INVM-EVENTSTORE/MOEXT_LAVER.Falabella.com:sche-invm-eventstore:8083 - was unable to send heartbeat! - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.DiscoveryClient.renew(DiscoveryClient.java:846)
+	at com.netflix.discovery.DiscoveryClient$HeartbeatThread.run(DiscoveryClient.java:1399)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-03-20 01:31:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:31:22 INFO - Disable delta property : false - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:31:22 INFO - Single vip registry refresh property : null - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:31:22 INFO - Force full registry fetch : false - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:31:22 INFO - Application is null : false - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:31:22 INFO - Registered Applications size is zero : true - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:31:22 INFO - Application version is -1: false - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:31:22 INFO - Getting all instance registry info from the eureka server - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:31:24ERROR - Request execution error - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+com.sun.jersey.api.client.ClientHandlerException: java.net.ConnectException: Connection refused: connect
+	at com.sun.jersey.client.apache4.ApacheHttpClient4Handler.handle(ApacheHttpClient4Handler.java:187)
+	at com.sun.jersey.api.client.filter.GZIPContentEncodingFilter.handle(GZIPContentEncodingFilter.java:123)
+	at com.netflix.discovery.EurekaIdentityHeaderFilter.handle(EurekaIdentityHeaderFilter.java:27)
+	at com.sun.jersey.api.client.Client.handle(Client.java:652)
+	at com.sun.jersey.api.client.WebResource.handle(WebResource.java:682)
+	at com.sun.jersey.api.client.WebResource.access$200(WebResource.java:74)
+	at com.sun.jersey.api.client.WebResource$Builder.get(WebResource.java:509)
+	at com.netflix.discovery.shared.transport.jersey.AbstractJerseyEurekaHttpClient.getApplicationsInternal(AbstractJerseyEurekaHttpClient.java:194)
+	at com.netflix.discovery.shared.transport.jersey.AbstractJerseyEurekaHttpClient.getApplications(AbstractJerseyEurekaHttpClient.java:165)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$6.execute(EurekaHttpClientDecorator.java:137)
+	at com.netflix.discovery.shared.transport.decorator.MetricsCollectingEurekaHttpClient.execute(MetricsCollectingEurekaHttpClient.java:73)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getApplications(EurekaHttpClientDecorator.java:134)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$6.execute(EurekaHttpClientDecorator.java:137)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.executeOnNewServer(RedirectingEurekaHttpClient.java:118)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:79)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getApplications(EurekaHttpClientDecorator.java:134)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$6.execute(EurekaHttpClientDecorator.java:137)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getApplications(EurekaHttpClientDecorator.java:134)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$6.execute(EurekaHttpClientDecorator.java:137)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getApplications(EurekaHttpClientDecorator.java:134)
+	at com.netflix.discovery.DiscoveryClient.getAndStoreFullRegistry(DiscoveryClient.java:1051)
+	at com.netflix.discovery.DiscoveryClient.fetchRegistry(DiscoveryClient.java:965)
+	at com.netflix.discovery.DiscoveryClient.refreshRegistry(DiscoveryClient.java:1473)
+	at com.netflix.discovery.DiscoveryClient$CacheRefreshThread.run(DiscoveryClient.java:1440)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.http.conn.scheme.PlainSocketFactory.connectSocket(PlainSocketFactory.java:121)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:180)
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:144)
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:134)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:610)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:445)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:835)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:118)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at com.sun.jersey.client.apache4.ApacheHttpClient4Handler.handle(ApacheHttpClient4Handler.java:173)
+	... 30 common frames omitted
+2019-03-20 01:31:24 WARN - Request execution failed with message: java.net.ConnectException: Connection refused: connect - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:31:24ERROR - DiscoveryClient_SCHE-INVM-EVENTSTORE/MOEXT_LAVER.Falabella.com:sche-invm-eventstore:8083 - was unable to refresh its cache! status = Cannot execute request on any known server - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getApplications(EurekaHttpClientDecorator.java:134)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$6.execute(EurekaHttpClientDecorator.java:137)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getApplications(EurekaHttpClientDecorator.java:134)
+	at com.netflix.discovery.DiscoveryClient.getAndStoreFullRegistry(DiscoveryClient.java:1051)
+	at com.netflix.discovery.DiscoveryClient.fetchRegistry(DiscoveryClient.java:965)
+	at com.netflix.discovery.DiscoveryClient.refreshRegistry(DiscoveryClient.java:1473)
+	at com.netflix.discovery.DiscoveryClient$CacheRefreshThread.run(DiscoveryClient.java:1440)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-03-20 01:31:24ERROR - Request execution error - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+com.sun.jersey.api.client.ClientHandlerException: java.net.ConnectException: Connection refused: connect
+	at com.sun.jersey.client.apache4.ApacheHttpClient4Handler.handle(ApacheHttpClient4Handler.java:187)
+	at com.sun.jersey.api.client.filter.GZIPContentEncodingFilter.handle(GZIPContentEncodingFilter.java:123)
+	at com.netflix.discovery.EurekaIdentityHeaderFilter.handle(EurekaIdentityHeaderFilter.java:27)
+	at com.sun.jersey.api.client.Client.handle(Client.java:652)
+	at com.sun.jersey.api.client.WebResource.handle(WebResource.java:682)
+	at com.sun.jersey.api.client.WebResource.access$200(WebResource.java:74)
+	at com.sun.jersey.api.client.WebResource$Builder.put(WebResource.java:529)
+	at com.netflix.discovery.shared.transport.jersey.AbstractJerseyEurekaHttpClient.sendHeartBeat(AbstractJerseyEurekaHttpClient.java:102)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.MetricsCollectingEurekaHttpClient.execute(MetricsCollectingEurekaHttpClient.java:73)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.executeOnNewServer(RedirectingEurekaHttpClient.java:118)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:79)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.DiscoveryClient.renew(DiscoveryClient.java:846)
+	at com.netflix.discovery.DiscoveryClient$HeartbeatThread.run(DiscoveryClient.java:1399)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.http.conn.scheme.PlainSocketFactory.connectSocket(PlainSocketFactory.java:121)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:180)
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:144)
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:134)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:610)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:445)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:835)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:118)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at com.sun.jersey.client.apache4.ApacheHttpClient4Handler.handle(ApacheHttpClient4Handler.java:173)
+	... 27 common frames omitted
+2019-03-20 01:31:24 WARN - Request execution failed with message: java.net.ConnectException: Connection refused: connect - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:31:24ERROR - DiscoveryClient_SCHE-INVM-EVENTSTORE/MOEXT_LAVER.Falabella.com:sche-invm-eventstore:8083 - was unable to send heartbeat! - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.DiscoveryClient.renew(DiscoveryClient.java:846)
+	at com.netflix.discovery.DiscoveryClient$HeartbeatThread.run(DiscoveryClient.java:1399)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-03-20 01:31:54 INFO - Disable delta property : false - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:31:54 INFO - Single vip registry refresh property : null - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:31:54 INFO - Force full registry fetch : false - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:31:54 INFO - Application is null : false - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:31:54 INFO - Registered Applications size is zero : true - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:31:54 INFO - Application version is -1: false - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:31:54 INFO - Getting all instance registry info from the eureka server - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:31:54 INFO - DiscoveryClient_SCHE-INVM-EVENTSTORE/MOEXT_LAVER.Falabella.com:sche-invm-eventstore:8083 - Re-registering apps/SCHE-INVM-EVENTSTORE - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:31:54 INFO - DiscoveryClient_SCHE-INVM-EVENTSTORE/MOEXT_LAVER.Falabella.com:sche-invm-eventstore:8083: registering service... - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:31:54 INFO - The response status is 200 - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:31:55 INFO - DiscoveryClient_SCHE-INVM-EVENTSTORE/MOEXT_LAVER.Falabella.com:sche-invm-eventstore:8083 - registration status: 204 - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:32:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:32:24 INFO - Disable delta property : false - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:32:24 INFO - Single vip registry refresh property : null - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:32:24 INFO - Force full registry fetch : false - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:32:24 INFO - Application is null : false - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:32:24 INFO - Registered Applications size is zero : true - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:32:24 INFO - Application version is -1: false - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:32:24 INFO - Getting all instance registry info from the eureka server - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:32:25 INFO - The response status is 200 - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:33:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:34:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:35:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:35:12 INFO - Resolving eureka endpoints via configuration - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:36:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:37:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:38:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:39:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:40:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:40:12 INFO - Resolving eureka endpoints via configuration - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:41:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:42:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:43:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:44:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:45:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:45:12 INFO - Resolving eureka endpoints via configuration - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:46:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:47:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:48:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:49:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:50:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:50:12 INFO - Resolving eureka endpoints via configuration - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:51:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:52:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:53:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:54:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:55:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:55:12 INFO - Resolving eureka endpoints via configuration - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:56:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:57:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:58:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 01:59:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 02:00:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 02:00:12 INFO - Resolving eureka endpoints via configuration - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 02:01:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 02:02:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 02:03:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 02:04:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 02:05:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 02:05:12 INFO - Resolving eureka endpoints via configuration - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 02:06:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 02:07:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 02:08:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 02:09:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 02:10:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 02:10:12 INFO - Resolving eureka endpoints via configuration - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 02:11:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 02:12:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 02:13:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 02:14:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 02:15:07 WARN - No messages received from 'tot-corp-orion-stockevent-storechanges-topic-mid/subscriptions/TOT-CORP-ORION-StockEvent-store-Subs-Topic-MID'. Pending receive request timed out. Returning null to the client. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 02:15:12 INFO - Resolving eureka endpoints via configuration - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 02:15:13 INFO - Application shutdown requested. - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 02:15:13 INFO - Unregistering application SCHE-INVM-EVENTSTORE with eureka with status DOWN - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 02:15:13 WARN - Saw local status change event StatusChangeEvent [timestamp=1553058913494, current=DOWN, previous=UP] - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 02:15:13 INFO - DiscoveryClient_SCHE-INVM-EVENTSTORE/MOEXT_LAVER.Falabella.com:sche-invm-eventstore:8083: registering service... - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 02:15:13 INFO - DiscoveryClient_SCHE-INVM-EVENTSTORE/MOEXT_LAVER.Falabella.com:sche-invm-eventstore:8083 - registration status: 204 - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 02:15:13 INFO - Shutting down ExecutorService 'applicationTaskExecutor' - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 02:15:13 INFO - Closing DocumentClient - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 02:15:13 WARN - Preferred location background task was interrupted - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 02:15:13 INFO - Shutting down DiscoveryClient ... - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 02:15:13 WARN - Destroy method on bean with name 'scopedTarget.eurekaClient' threw an exception: org.springframework.beans.factory.BeanCreationNotAllowedException: Error creating bean with name 'eurekaInstanceConfigBean': Singleton bean creation not allowed while singletons of this factory are in destruction (Do not request a bean from a BeanFactory in a destroy method implementation!) - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 02:15:13 INFO - Pausing ProtocolHandler ["http-nio-8083"] - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 02:15:14 INFO - Stopping service [Tomcat] - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 02:15:14 INFO - Destroying Spring FrameworkServlet 'dispatcherServlet' - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 02:15:14 INFO - Stopping ProtocolHandler ["http-nio-8083"] - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 
+2019-03-20 02:15:14 INFO - Destroying ProtocolHandler ["http-nio-8083"] - txEpd= txRef= cmRef= nodeRef= usrTx= rhsRef= commerce= country= 

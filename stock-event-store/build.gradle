@@ -63,9 +63,9 @@ dependencies {
 	compile group: 'com.microsoft.azure', name: 'spring-data-cosmosdb', version: '2.1.0'
 	
 	// https://mvnrepository.com/artifact/org.springframework/spring-tuple
-compile group: 'org.springframework', name: 'spring-tuple', version: '1.0.0.RELEASE'
-	
-	  compile "corp.falabella.event:event-adapter-azureservicebus-support:${eventAdapterASBVersion}"
+	compile group: 'org.springframework', name: 'spring-tuple', version: '1.0.0.RELEASE'
+	compile('org.springframework.cloud:spring-cloud-starter-netflix-eureka-client')
+	compile "corp.falabella.event:event-adapter-azureservicebus-support:${eventAdapterASBVersion}"
 	testCompile ("org.springframework.boot:spring-boot-starter-test:${springBootVersion}"){
 	 	exclude group: 'com.jayway.jsonpath' 
 	 	}	
@@ -74,4 +74,10 @@ compile group: 'org.springframework', name: 'spring-tuple', version: '1.0.0.RELE
 	//compile group: 'com.microsoft.azure', name: 'azure-documentdb-spring-boot-starter', version: '2.0.5'
 	compile group: 'com.fasterxml.jackson.dataformat', name: 'jackson-dataformat-xml', version: '2.9.7'
 	
+}
+
+dependencyManagement {
+	imports {
+		mavenBom 'org.springframework.cloud:spring-cloud-dependencies:Finchley.SR2'
+	}
 }
